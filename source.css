@@ -2673,7 +2673,7 @@ a,
 /* BOTTOM BAR -> CHAT FORM */
 
 .chat-3bRxxu .messagesWrapper-3lZDfY + .form-2fGMdU {
-	min-height: 40px;
+	min-height: 72px;
 	margin: 0;
 	padding: 0 16px;
 	background-color: var(--bar-color);
